@@ -1,8 +1,8 @@
 ### Olá eu sou o Ilgner Silva 👋
 
 - 🔭 IT Lindo
-- Desenvolvedor backend jr
-- 🌱 Estudando React
+- Desenvolvedor fullstack jr
+- 🌱 Estudando PHP
 - 📫 Contate-me no email: ilgnersilva@outlook.com
 
 <div align="center">
