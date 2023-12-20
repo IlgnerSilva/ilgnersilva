@@ -1,6 +1,5 @@
 ### Olá eu sou o Ilgner Silva 👋
 
-- 🔭 IT Lindo
 - Desenvolvedor fullstack jr
 - 🌱 Estudando PHP
 - 📫 Contate-me no email: ilgnersilva@outlook.com
@@ -17,6 +16,11 @@
   <img align="center" alt="Ilgner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ilgner-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Ilgner-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="Ilgner-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Ilgner-Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="Ilgner-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="Ilgner-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+                              
 </div><br>
   
 <div> 
